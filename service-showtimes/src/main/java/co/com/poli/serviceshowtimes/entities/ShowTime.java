@@ -13,7 +13,7 @@ import java.util.Date;
 import java.util.List;
 
 @Entity
-@Table(name="TBL_SHOWTIME")
+@Table(name="SHOWTIME")
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 import javax.persistence.*;
 
 @Entity
-@Table(name="TBL_SHOWTIME_MOVIE")
+@Table(name="SHOWTIME_MOVIE")
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

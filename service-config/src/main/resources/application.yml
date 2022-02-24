@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: file:///E:/Universidad\PDS\Taller_2\remote-server-properties
+          uri: file:///E:/Universidad/PDS/config-data
   security:
     user:
       name: admin
