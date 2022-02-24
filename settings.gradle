@@ -1,4 +1,4 @@
-rootProject.name = 'storemultiproject'
+rootProject.name = 'tallerpds2'
 
 include 'service-users'
 include 'service-showtimes'
@@ -6,6 +6,7 @@ include 'service-product'
 include 'service-movie'
 include 'service-booking'
 
+include 'service-register'
 include 'service-config'
 include 'service-gateway'
 include 'service-admin'

@@ -5,10 +5,10 @@ spring:
     config:
       server:
         git:
-          uri: file:///E:/Poli2021-2/PDS/repos/config-data
+          uri: file:///E:/Universidad\PDS\Taller_2\remote-server-properties
   security:
     user:
-      name: ${CONFIG_USER}
-      password: ${CONFIG_PASSWORD}
+      name: admin
+      password: admin
 server:
   port: 9000
